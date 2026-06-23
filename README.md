@@ -70,7 +70,30 @@ The dashboard supports leadership decision-making through interactive analysis a
 - Dashboard focuses on historical performance.- External market conditions are not included.- Customer satisfaction metrics are unavailable.
 ---
 ## Screenshots Included
-```textscreenshots/├── full_dashboard.png├── sales_trend_view.png├── regional_performance_view.png├── category_profitability_view.png└── filter_interaction_view.png```
+
+- full_dashboard.png
+- sales_trend_view.png
+- regional_performance_view.png
+- category_profitability_view.png
+- filter_interaction_view.png
 ---
 ## Repository Structure
-```textpart4_tableau_dashboard/├── data/│ └── dashboard_sales_data.xlsx├── tableau/│ └── executive_dashboard.twbx├── outputs/│ ├── dashboard_story.md│ ├── business_insights.md│ └── chart_selection_justification.md├── screenshots/│ ├── full_dashboard.png│ ├── sales_trend_view.png│ ├── regional_performance_view.png│ ├── category_profitability_view.png│ └── filter_interaction_view.png└── README.md```
+
+```text
+part4_tableau_dashboard/
+├── data/
+│   └── dashboard_sales_data.xlsx
+├── tableau/
+│   └── executive_dashboard.twbx
+├── outputs/
+│   ├── dashboard_story.md
+│   ├── business_insights.md
+│   └── chart_selection_justification.md
+├── screenshots/
+│   ├── full_dashboard.png
+│   ├── sales_trend_view.png
+│   ├── regional_performance_view.png
+│   ├── category_profitability_view.png
+│   └── filter_interaction_view.png
+└── README.md
+```
